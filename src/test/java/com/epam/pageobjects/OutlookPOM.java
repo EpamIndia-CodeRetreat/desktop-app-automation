@@ -13,10 +13,10 @@ public class OutlookPOM {
     private By subjectField = By.name("Add a subject");
     private By messageBodyField = By.name("Message body, press Alt+F10 to exit");
     private By sendButton = By.name("Send");
-    private By moreoptionsButton = By.name("More Options");
+    private By moreOptionsButton = By.name("More Options");
     private By meetingOption = By.name("Meeting");
-    private By titleTestBox = By.name("Title");
-
+    private By titleField = By.name("Title");
+    private By bodyField = By.name("Page 1 content");
 
 
     public OutlookPOM(WindowsDriver driver) {
