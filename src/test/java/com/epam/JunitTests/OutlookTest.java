@@ -1,4 +1,4 @@
-package com.epam.stepdefinitions;
+package com.epam.JunitTests;
 
 import io.appium.java_client.windows.WindowsDriver;
 import org.junit.*;
